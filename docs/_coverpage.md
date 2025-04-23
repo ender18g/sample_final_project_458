@@ -1,5 +1,6 @@
 <!-- markdownlint-disable first-line-h1 -->
-<img src="logo2.png" alt="logo" width="300">
+
+![logo](logo2.png)
 
 # docsify <small>4.13.0</small>
 
