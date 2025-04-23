@@ -29,3 +29,4 @@ The following were generated using the code above in Hopper Hall
 
 
 # About Desingers
+![logo](logo2.png)
